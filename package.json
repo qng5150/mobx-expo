@@ -10,9 +10,14 @@
   "dependencies": {
     "expo": "~42.0.1",
     "expo-status-bar": "~1.0.4",
+    "mobx": "^6.3.3",
+    "mobx-persist": "^0.4.1",
+    "mobx-react": "^7.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-elements": "^3.4.2",
+    "react-native-vector-icons": "^8.1.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
